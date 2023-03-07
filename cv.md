@@ -37,22 +37,22 @@ More than 10 created projects. Able to effectively self-manage during independen
 
 ### Hard Skills
 
-- Web Development Languages:
+- **Web Development Languages**:
   - HTML
   - CSS
   - JavaScrypt
   - Python
-- JavaScript Frameworks and Libraries:
+- **JavaScript Frameworks and Libraries**:
   - React
   - Bootstrap
   - jQuery
   - SASS
-- Internet Technologies:
+- **Internet Technologies**:
   - REST API
   - Hosting
   - SOE
   - Responsive Layout
-- Tools and Editors:
+- **Tools and Editors**:
   - VC Code IDE
   - GitHub Desktop
   - Canva
@@ -91,9 +91,9 @@ num_var(s_of_tri90)
 
 ### Education
 
-- Mykolaivsky trade-ekonomical kooperation college - commercial activity (2003-2005)
-- International University “Ukraine” - bachelor of Marketing (2005-2006)
-- Interregional Academy of Personnel Management - master of social psychology (2018-2020)
+- **Mykolaivsky trade-ekonomical kooperation college** - commercial activity (2003-2005)
+- **International University “Ukraine”** - bachelor of Marketing (2005-2006)
+- **Interregional Academy of Personnel Management** - master of social psychology (2018-2020)
 
 ---
 
@@ -109,23 +109,23 @@ I have no commercial experience in coding. Previously held the following positio
 
 ### Courses
 
-- SheCodes Workshop:
+- **SheCodes Workshop**:
   - Introduction to Coding (04/2022-05/2022)
   - Front End Developer (05/2022-06/2022)
   - Responsive (06/2022-07/2022)
   - React (07/2022-08/2022)
-- Beetroot Academy:
-  - Python Development (studing now)
-- RS School:
-  - JavaScrypt/Front-end (studing now)
+- **Beetroot Academy**:
+  - Python Development (in progress)
+- **RS School**:
+  - JavaScrypt/Front-end (in progress)
 
 ---
 
 ### Languages
 
-- Russian - Native
-- English - Intermediate
-- Polish - Intermediate
+- **Russian** - Native
+- **English** - Intermediate
+- **Polish** - Intermediate
 
 ---
 

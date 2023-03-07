@@ -10,8 +10,11 @@
 
 - tel: +380964720420 (Viber, TG, WhatsApp)
 - email: antimatrix2020@gmail.com
-- Github: [https://github.com/zoia-k](GitHub)
-- SheCodes: [https://www.shecodes.io/graduates/41064-zoia-kucherova](SheCodes)
+- [Github][1]
+- [SheCodes][2]
+
+[1]: [https://github.com/zoia-k]
+[2]: [https://www.shecodes.io/graduates/41064-zoia-kucherova]
 
 ---
 
@@ -108,15 +111,19 @@ I have no commercial experience in coding. Previously held the following positio
 
 ### Courses
 
-- **SheCodes Workshop**:
+- [SheCodes Workshop][3]:
   - Introduction to Coding (04/2022-05/2022)
   - Front End Developer (05/2022-06/2022)
   - Responsive (06/2022-07/2022)
   - React (07/2022-08/2022)
-- **Beetroot Academy**:
+- [Beetroot Academy][4]:
   - Python Development (in progress)
-- **RS School**:
+- [RS School][5]:
   - JavaScrypt/Front-end (in progress)
+
+[3]: [https://www.shecodes.io/]
+[4]: [https://beetroot.academy/]
+[5]: [https://rs.school/]
 
 ---
 

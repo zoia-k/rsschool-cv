@@ -8,11 +8,10 @@
 
 ### Contact information
 
-tel: +380964720420 (Viber, TG, WhatsApp)
-email: antimatrix2020@gmail.com
-portfolio: https://zoia-k-portfolio.netlify.app/about.html
-GitHub: https://github.com/zoia-k
-SheCodes: https://www.shecodes.io/graduates/41064-zoia-kucherova
+- tel: +380964720420 (Viber, TG, WhatsApp)
+- email: antimatrix2020@gmail.com
+- Github: [https://github.com/zoia-k](GitHub)
+- SheCodes: [https://www.shecodes.io/graduates/41064-zoia-kucherova](SheCodes)
 
 ---
 
